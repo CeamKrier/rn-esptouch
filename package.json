@@ -1,0 +1,23 @@
+{
+    "name": "rn-esptouch",
+    "version": "1.0.0",
+    "description": "React-native wrapper of the ESPTouch",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "react-native",
+        "esptouch",
+        "esp8266",
+        "esp32"
+    ],
+    "license": "MIT",
+    "peerDependencies": {
+        "react-native": "^0.41.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CeamKrier/rn-esptouch.git"
+    }
+}
